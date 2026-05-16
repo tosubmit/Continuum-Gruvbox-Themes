@@ -81,5 +81,5 @@
 </div>
 
 <div align="center" style="margin-top:24px; color:#928374;">
-  <sub>✨ Crafted with Gruvbox palette</sub>
+  <sub>☁️ Crafted with Gruvbox palette</sub>
 </div>
